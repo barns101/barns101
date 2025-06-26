@@ -1,4 +1,6 @@
-## Hi there 👋
+## Barnaby Knowles
+
+Senior Engineering Manager with 20+ years' experience across software engineering, data engineering, data science, and leadership. Proven track record of delivering scalable, high-quality products and managing complex projects across multi-discipline teams. Known for combining strong technical expertise with industry knowledge and for fostering inclusive, impact-driven teams.
 
 <!--
 **barns101/barns101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
