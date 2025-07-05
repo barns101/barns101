@@ -1,6 +1,6 @@
 ## Barnaby Knowles
 
-Senior Engineering Manager with 20+ years' experience across software engineering, data engineering, data science, and leadership. Proven track record of delivering scalable, high-quality products and managing complex projects across multi-discipline teams. Known for combining strong technical expertise with industry knowledge and for fostering inclusive, impact-driven teams.
+Senior Engineering Manager with 20+ years' experience across software engineering, data engineering, data science, and leadership. Proven track record of delivering scalable, high-quality products and managing complex projects across multi-discipline teams. Known for combining strong technical expertise with industry knowledge and for fostering inclusive, product-driven teams.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/barnabyknowles/).
 
