@@ -1,6 +1,6 @@
 ## Barnaby Knowles
 
-Senior Engineering Manager with 20+ years of experience leading software and data teams in high-volume, regulated environments. Proven in executing large-scale business transformation, including migrating 9.8 million customers and a £1 billion revenue stream to cloud-native data platforms (GCP/AWS). Expert in building high-performance, product-led teams, increasing team engagement by 15% and accelerating recruitment by 10% through improved processes.
+Senior Engineering Manager with nearly 20 years of experience. Currently leading software and data teams in petabyte-volume, highly-regulated environments. Proven in executing large-scale business transformation, including migrating 9.8 million customers and a £1 billion revenue stream to cloud-native data platforms (GCP/AWS). Expert in building high-performance, product-led teams, increasing team engagement by 15% and accelerating recruitment by 10% through improved processes.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/barnabyknowles/).
 
